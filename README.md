@@ -2,7 +2,7 @@
 
 Sou estudante de **Sistemas de Informação** e tenho grande interesse na área de **análise e manipulação de dados**. Também gosto muito da parte de desenvolvimento, tanto **back-end** quanto **front-end**, além de **banco de dados**.
 
-✨ No que estou me aprofundando:  
+✨  Estou me aprofundando:  
 - **Linguagens**: Java, JavaScript, Python, Dart  
 - **Banco de dados**: SQL, MySQL e MongoDB
 
